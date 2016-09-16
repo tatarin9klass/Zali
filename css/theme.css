@@ -56,52 +56,10 @@ img {
 	outline:0;
 	vertical-align:top;
 }
-.logo {
-	display:inline-block;
-	width:321px;
-	text-align:center;
-	background:url(../images/logo_bg.png) repeat-y left top, url(../images/logo_bg.png) repeat-y right top;
-}
-.logo img {max-width:100%;
-	max-height: 100%;
-}
+
 
 /* _______________________ Top info _______________________ */
-.email_block {
-	float:right;
-	width:30%;
-	padding:0 0 0;
-	text-align:center;
-	line-height:20px;
-	font-size:13px;
-	color:#787878;
-}
-.phone_block {
-	float:left;
-	width:30%;
-	padding:15px 0 0;
-	text-align:center;
-	line-height:20px;
-	font-size:13px;
-	color:#787878;
-}
 
-.email_block a,
-.phone_block span {
-	color:#976F53;
-}
-.phone_block1 span {
-	color:#976F53;
-}
-.phone_block1 {
-	float: center;
-	width:20%;
-	padding:41px 0 0;
-	text-align:center;
-	line-height:20px;
-	font-size:13px;
-	color:#787878;
-}
 /* ______________________ //Top info ______________________ */
 
 /*nav*/
